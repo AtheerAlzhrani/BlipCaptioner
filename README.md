@@ -5,7 +5,7 @@ descriptions.
 
 ## Demo
 
-[Try the demo here](INSERT_DEMO_LINK_HERE)
+[Try the demo here](https://4d02195a97fccd83f0.gradio.live/)
 
 ## Features
 
@@ -24,12 +24,3 @@ descriptions.
 
 - **BlipProcessor & BlipForConditionalGeneration:** For processing images and generating captions.
 - **Gradio:** To create the web interface for user interaction.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/blipcaptioner.git
-   cd blipcaptioner
