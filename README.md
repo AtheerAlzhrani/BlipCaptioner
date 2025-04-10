@@ -5,7 +5,7 @@ BlipCaptioner is an interactive web application that generates descriptive capti
 
 ## Demo
 
-[Try the demo here](https://huggingface.co/spaces/atheeralzhrani7/BlibCaptioner)
+[Try the demo here](https://www.youtube.com/watch?v=eczk7fs4U84)
 
 ## Features
 
